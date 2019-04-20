@@ -21,3 +21,5 @@ The output will be printed in the console and also written in the Results_10_R_R
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+## Acknowledgments
+The application representing 'manual' approach for distributing grape deliveries on the same test data can be found under [url](https://sidorowiczaleksandra.shinyapps.io/grape_manager/) page.
