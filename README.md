@@ -1,5 +1,5 @@
 # GrapeReception
-Repository contains all needed materials to run algorithm for a grape reception scheduling. Detailed description of the algoithm can be found in [this](https://arxiv.org/abs/1811.00469) paper.
+Repository contains all needed materials to run algorithm for a grape reception scheduling. Detailed description of the algoithm can be found in [this](http://arxiv.org/abs/1811.00469) paper.
 
 ## Getting Started
 All the scripts are written in R programming launguage. 
